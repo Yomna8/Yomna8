@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
-<div>
-    <table>
+<div style="text-align: center;">
+    <table style="margin: 0 auto;">
         <tr>
             <td align="center">
                 <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
@@ -8,6 +8,7 @@
         </tr>
     </table>
 </div>
+
 
 
 
