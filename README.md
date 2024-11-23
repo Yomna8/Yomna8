@@ -1,9 +1,16 @@
 # 👋 Welcome to My GitHub!
-<div align="left">
-    <img src="[your-image-url.jpg](https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif)" alt="Centered Image" width="300">
-</div>
-<div align="center">
-    <h1>───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+<div>
+    <table>
+        <tr>
+            <!-- Left: Anime Hello GIF -->
+            <td align="left">
+                <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
+            </td>
+            
+            <!-- Center: ASCII Art -->
+            <td align="center">
+                <pre>
+───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
 ────█░░█░░░░░█░░█────
 ─▄▄──█░░░▀█▀░░░█──▄▄─
@@ -12,8 +19,13 @@
 █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
 █░░║║║╠─║─║─║║║║║╠─░░█
 █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█</h1>
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+                </pre>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 ## 🧑‍🏫 About Me  
 I'm a dedicated professional with a background in **education** and **office management**, passionate about fostering effective communication and driving student engagement. My experience includes:  
