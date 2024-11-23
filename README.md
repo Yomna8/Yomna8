@@ -1,4 +1,7 @@
 # 👋 Welcome to My GitHub!
+<div align="left">
+    <img src="[your-image-url.jpg](https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif)" alt="Centered Image" width="300">
+</div>
 <div align="center">
     <h1>───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
