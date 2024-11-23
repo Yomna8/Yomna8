@@ -19,7 +19,7 @@
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
                 </pre>
             </td>
-            <td align="right">
+             <td align="right">
                 <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello Mirrored" width="200" style="transform: scaleX(-1);">
             </td>
         </tr>
