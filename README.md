@@ -2,12 +2,9 @@
 <div>
     <table>
         <tr>
-            <!-- Left: Anime Hello GIF -->
             <td align="left">
                 <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
-            </td>
-            
-            <!-- Center: ASCII Art -->
+            </td>            
             <td align="center">
                 <pre>
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
