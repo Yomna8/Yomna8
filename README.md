@@ -1,5 +1,4 @@
 # 👋 Welcome to My GitHub!
-
 ## 🧑‍🏫 About Me  
 I'm a dedicated professional with a background in **education** and **office management**, passionate about fostering effective communication and driving student engagement. My experience includes:  
 - **Teaching**: Adapting educational methods to enhance learning outcomes.  
