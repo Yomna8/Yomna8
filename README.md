@@ -26,4 +26,4 @@ I am currently expanding my knowledge in **Python**, **machine learning**, and *
 ## 🌐 Connect With Me  
 Feel free to reach out or collaborate on a project:  
 ### - [**LinkedIn**](https://www.linkedin.com/in/yomna-abd-elmoneim-b9992831a/)(#)  
-### - [**Email**](yomnaabdelmoneim5@gmail.com)(mailto:#)
+### - [**Email**](mailto:yomnaabdelmoneim5@gmail.com)
