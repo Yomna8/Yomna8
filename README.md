@@ -1,10 +1,12 @@
 # 👋 Welcome to My GitHub!
-<div style="display: grid; grid-template-columns: auto 1fr auto; align-items: center; text-align: center; gap: 20px;">
-    <div>
-        <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
-    </div>
-    <div>
-        <pre style="font-size: 14px; line-height: 1.2; margin: 0; background: none; border: none;">
+<div>
+    <table>
+        <tr>
+            <td align="left">
+                <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
+            </td>
+            <td align="center">
+                <pre>
 ───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
 ───█▒▒░░░░░░░░░▒▒█───
 ────█░░█░░░░░█░░█────
@@ -15,12 +17,12 @@
 █░░║║║╠─║─║─║║║║║╠─░░█
 █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-        </pre>
-    </div>
-    <div>
-        <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello Mirrored" width="200" style="transform: scaleX(-1);">
-    </div>
+                </pre>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 
 
