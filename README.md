@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <div>
-        <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" style="width: 150px; border: none; box-shadow: none;">
+        <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" style="width: 150px; transform: scaleX(1);">
     </div>
     <div style="text-align: center;">
         <pre style="font-size: 14px; line-height: 1.2; background: none; border: none; padding: 0; margin: 0;">
@@ -17,7 +17,11 @@
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
         </pre>
     </div>
+    <div>
+        <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello Mirrored" style="width: 150px; transform: scaleX(-1);">
+    </div>
 </div>
+
 
 
 ## 🧑‍🏫 About Me  
