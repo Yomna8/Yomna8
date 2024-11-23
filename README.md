@@ -1,6 +1,5 @@
 # 👋 Welcome to My GitHub!
 <div>
-    <table>
         <tr>
             <td align="left">
                 <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello" width="200">
@@ -23,7 +22,6 @@
                 <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" alt="Anime Hello Mirrored" width="200" style="transform: scaleX(-1);">
             </td>
         </tr>
-    </table>
 </div>
 
 
